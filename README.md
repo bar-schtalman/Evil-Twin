@@ -1,9 +1,9 @@
 # Evil-Twin
 ## Attack(partial program)
 ### Step 1: scaning for ap's
-use ap_scan.py
-use method scan
-insert your network interface name as argument
+##### use ap_scan.py
+##### use method scan
+##### insert your network interface name as argument
 
 ### Step 2: finds users in the AP
 ##### use users.py
