@@ -1,5 +1,5 @@
 # Evil-Twin
-## Attack(partial program)
+## Attack (partial program)
 ### Step 1: scaning for ap's
 ##### use ap_scan.py
 ##### use method scan
