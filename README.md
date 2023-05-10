@@ -5,7 +5,7 @@
 ##### use method scan
 ##### insert your network interface name as argument
 -----------------------------------------------------------------------------
-### Step 2: finds users in the AP
+### Step 2: finds users across the AP
 ##### use users.py
 ##### use method find_users
 ##### isnert the network interface name and the target AP BSSID as arguments
