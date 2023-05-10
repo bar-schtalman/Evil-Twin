@@ -1,6 +1,6 @@
 # Evil-Twin
 ## Attack (partial program)
-### Step 1: scaning for ap's
+### Step 1: scaning for AP's arround
 ##### use ap_scan.py
 ##### use method scan
 ##### insert your network interface name as argument
